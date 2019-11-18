@@ -5,7 +5,9 @@
 </p>
 ## 该项目使用的技术栈：react-native、react-redux、redux 和styled-components
 
-### 使用项目可以 git clone git@github.com:CongGou/react-native-for-designcode.git
+### 使用项目可以
+
+`git clone git@github.com:CongGou/react-native-for-designcode.git`
 
 ### 该项目是使用 Expo 混合开发的，如果未安装请先安装 Expo:
 
